@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.two {
+    background-color: blue;
+}
+
+.three {
+    background-color: pink;
+}
+
+.four {
+    background-color: rgb(192, 3, 35);
+}
